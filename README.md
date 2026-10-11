@@ -1,2 +1,1 @@
-laundry-api in progress...
-belum testing
+Done.
